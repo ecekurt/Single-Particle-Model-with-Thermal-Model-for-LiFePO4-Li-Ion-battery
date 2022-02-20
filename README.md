@@ -1,5 +1,5 @@
 # Single-Particle-Model-w-Thermal-Model
-Single particle model of LiFePO4-graphite Li-Ion battery including degradation mechanism.
+Single particle model of LiFePO4-graphite Li-Ion battery including degradation mechanism. The partial differential equations that define the Li+ diffusion in the negative and positive electrodes are solved numerically through a finite difference method in Matlab.
 
 LFP battery parameters and OCV fits are obtained from;
 
